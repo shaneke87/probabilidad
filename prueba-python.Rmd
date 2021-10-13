@@ -16,6 +16,6 @@ prueba latex $x = \frac{\sum{x^2}}{2}$
 ```{python}
 import pandas as pd
 py = 25 * 5
-print("el resultado de 20 * 25 es: {} d".format(py))
+print("el resultado de 20 * 25 es: {} dn".format(py))
 ```
 
