@@ -1,0 +1,21 @@
+---
+title: "Prueba Probabilidad con Phyton"
+author: "Oscar Graciano"
+date: "8/10/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+```
+
+prueba latex $x = \frac{\sum{x^2}}{2}$
+```{python}
+import pandas as pd
+py = 25 * 5
+print("el resultado de 20 * 25 es: {}".format(py))
+```
+
