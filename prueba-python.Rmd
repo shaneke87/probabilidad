@@ -15,7 +15,7 @@ library(reticulate)
 prueba latex $x = \frac{\sum{x^2}}{2}$
 ```{python}
 import pandas as pd
-py = 25 * 5
+py = 25 * 20
 print("el resultado de 20 * 25 es: {}".format(py))
 ```
 
